@@ -25,7 +25,4 @@ Improvements in Assignment 2:
 Dynamic dataset creation from multiple emails using rule-based features.
 Hybrid model combining rule-based and Logistic Regression ML classification.
 Improved detection accuracy and reliability.
-📦 Installation
-1. Clone the repository
-git clone https://github.com/RithikaHamsagouni/email-spoofing-detection--cybersecurity.git
-cd email-spoofing-detection--cybersecurity
+
